@@ -1,8 +1,8 @@
-```markdown
-# 🔥 AI Movie Character Chatbot - Internship Ladder Challenge 🚀
+
+# 🔥 AI Movie Character Chatbot 🚀
 
 ## 🎯 Overview
-This project is part of the **Internship Ladder Challenge**, designed to progressively build and scale an AI-powered chatbot that mimics movie characters. The chatbot integrates **LLMs, real movie dialogues, RAG-based vector search, caching, and high-performance optimizations**. The goal is to develop a scalable, real-time backend chatbot capable of handling high traffic and providing character-accurate responses.
+This project designed to progressively build and scale an AI-powered chatbot that mimics movie characters. The chatbot integrates **LLMs, real movie dialogues, RAG-based vector search, caching, and high-performance optimizations**. The goal is to develop a scalable, real-time backend chatbot capable of handling high traffic and providing character-accurate responses.
 
 ## 🏆 Features
 - **Character-Accurate Responses** – AI mimics personalities using LLMs & movie dialogues.
@@ -14,7 +14,7 @@ This project is part of the **Internship Ladder Challenge**, designed to progres
 - **Backend:** FastAPI, Python
 - **AI Models:** OpenAI GPT API / Llama2
 - **Database:** MongoDB, Redis, Vector DB (FAISS/Pinecone/ChromaDB)
-- **Deployment:** AWS / DigitalOcean / Vercel
+- **Deployment:** Vercel
 - **Monitoring:** Prometheus, Grafana
 - **Additional Tools:** WebSockets for real-time communication
 
